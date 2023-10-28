@@ -3,3 +3,4 @@ Line 2 Apple Banana
 Line 3 Bike Car
 Line 4 Computer Phone
 Line 5 Fly Wasp
+Line 7 Dog
